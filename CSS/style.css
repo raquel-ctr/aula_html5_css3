@@ -1,0 +1,30 @@
+
+    body {
+        background: rgb(206, 190, 221);
+        margin-left: 40px;
+    }
+
+    body {
+        color:darkblue
+    }
+
+    h1 {
+        color:brown;
+        font-family: fantasy;
+    }
+
+    h2 {
+        font-family: fantasy;
+        color: darkgreen;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    img {
+        margin-bottom: 50px;
+    }
+     head {
+         backgroud: rgb(197, 45, 70) 
+     }
